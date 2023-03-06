@@ -1,2 +1,2 @@
 # Games
-Some practice coding. Creating simple games.
+Some practice coding, creating simple games.
